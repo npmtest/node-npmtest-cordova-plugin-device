@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [cordova-plugin-device (v1.1.5)](https://github.com/apache/cordova-plugin-device#readme) [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-device.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-device) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-device.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-device)",
+    "description": "#### basic test coverage for  [cordova-plugin-device (v1.1.5)](https://github.com/apache/cordova-plugin-device#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-device.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-device) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-device.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-device)",
     "devDependencies": {
         "cordova-plugin-device": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
